@@ -1,0 +1,38 @@
+1. DuPaul, G. J., Qiong, F., Anastopoulos, A. D., Reid, R., & Power, T. J. (2020b). ADHD Parent and Teacher Symptom Ratings: Differential Item Functioning across Gender, Age, Race, and Ethnicity.
+        Journal of Abnormal Child Psychology, 48(5), 679-691. https://doi.org.10.1007/s10802-020-00618-7
+* Summary: DuPaul et al. used the Rasch rating scale model to rate teacher and parent rating scale data to measure differing symptom dimensions. 
+ Data was collected to go beyond prior investigation to measure invariance for child demographic characteristics at the symptom level. 
+*Unit of Analysyis: Individual - 2079 chidlren ages 5-17
+*Dealing with Missing Data: the author does not state how missing data was handled - most likely listwise deletion
+*Stealing? the approach to add intersectionality to current research I would like to steal the model framework which highlights the differential item functioning of the 18 ADHD symptoms.
+ I will also be looking at the differences in diagnosis based on race, gender, and class. 
+
+2. Lee, S. (2020). The Role of Family Environmental Factors on ADHD and ODD Comorbidity in Early Childhood. Chapel HIll. https://cdr.lib.unc.edu/concern/dissertation/0v838610t
+*Summary: passice longitudinal design that used secondary data analysis on the Family Life Project. Focuses on comorbidity between ADHD and ODD in early childhood. 
+*Unit of Analysis: individual/families 878
+*Dealing with Missing Data:lack of clarity in defining what constitutes exposure to IPV.Lee uses SPSS to analyze data through one-way ANCOVA. A regression analysis is also conducted. When insignificant interactions were deemed, they were dropped and effects examined without the interaction. 
+*Stealing?:I would like to steal the regression model from this article. I will need to scale different points from interviews 
+
+3. Leath, S., Matthews, C. J., Harrison, A., & Chavous, T. M. (2019). Racial Identity, Racial Discrimination, and Classroom engagemenet Outcomes among Black Girls and Boys in Predominantly Black and Predominantly White School Districts. American Educational Research Journal, 56(4), 1318-1352. https://doi.org/10.3102/0002831218816955
+*Summary: Leath et al. uses linear regression methods to examine the general prevalence of discrimination among Black adolescents as suggested by extant scholarship.
+*Unit of Analysis:Individual 1659 African American adolescents 
+*Dealing with Missing Data:the uthor does not talk about dealing with missing data - most likely listwise deletion
+Stealing?: I would like to steal the regression model from this article. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://cdr.lib.unc.edu/concern/dissertation/0v838610t
